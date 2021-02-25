@@ -8,7 +8,7 @@
 <body>
 <center>
 <body bgcolor= "beige">
- <iframe src="https://open.spotify.com/embed/album/1xWYSg7J7pxTZ113CJVy1P"></iframe>
+ <audio src=" https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P" controls </audio>
 </font> 
 </center>
 <p> 
